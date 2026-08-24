@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard analyzing sales performance for BlinkIT — one of India's leading quick-commerce grocery apps — across outlets, product categories, and store formats.
 
-![Dashboard Preview](screenshot.png)
+![Dashboard Preview](https://raw.githubusercontent.com/palakgoyal1174-debug/BlinkIT_Dashboard/main)
 
 ---
 
